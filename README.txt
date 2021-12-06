@@ -1,0 +1,1 @@
+This is an analysis of computer science job market based on FreeCodeCamp's survey filled by over 15,000 developers. The purpose of this work is to find the best market (country) to target advertising for Computer Science e-learning platform
